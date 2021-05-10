@@ -16,7 +16,7 @@ sections:
           and make something truly awesome. devs can com together brainstorm and
           create with the help of code sandbox and stakbit.**
         align: left
-        image: images/images (1).jpeg
+        image: images/4.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
