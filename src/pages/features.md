@@ -8,10 +8,13 @@ sections:
   - type: features_section
     features:
       - title: join my discord and help make my site better
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          ## **my discord is a work in progres server!!!!! **
+
+
+          ####    ** my goal for this server is a place ware developers can com
+          and make something truly awesome. devs can com together brainstorm and
+          create with the help of code sandbox and stakbit.**
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
